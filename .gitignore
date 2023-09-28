@@ -1,0 +1,39 @@
+MBROLA/*
+._pork.py
+.env
+strings.txt
+*.pyc
+*__pycach__*
+venv
+venv/*
+
+# Binaries
+Bin/*
+# Eclipse settings
+.cproject
+.project
+.settings/*
+# Temporary files
+*.swp
+# Visual Studio files
+.vs
+*.aps
+*.ncb
+*.db
+*.opendb
+*.plg
+*.opt
+*.vcxproj.user
+VisualC6/mbrola/Debug
+VisualC6/mbrola/Release
+VisualC6/mbrolalib/Debug
+VisualC6/mbrolalib/Release
+VisualC/Win32
+VisualC/x64
+VisualC/mbrola/Debug
+VisualC/mbrola/Release
+VisualC/mbrola/x64
+VisualC/mbrolalib/Debug
+VisualC/mbrolalib/Release
+VisualC/mbrolalib/x64
+old
