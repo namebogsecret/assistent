@@ -5,9 +5,11 @@ MBROLA/*
 .env
 strings.txt
 *.pyc
-*__pycach__*
+__pycache__
 venv
 venv/*
+*.txt
+*.log
 
 # Binaries
 Bin/*
@@ -41,3 +43,4 @@ VisualC/mbrolalib/x64
 old
 models
 MBROLA
+RHVoice
